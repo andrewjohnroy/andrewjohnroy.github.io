@@ -9,7 +9,7 @@ async function ipaddress() {
         });
         if (ip != oldIp) {
             Email.send({
-                SecureToken: "126cc13f-19a3-4456-9dfd-e24a70db2523",
+                SecureToken: "0874bfcd-dcbc-4e07-934a-4a23f6da8d2a",
                 To: "andrewjohnroy@gmail.com",
                 From: "andrewjohnroy@gmail.com",
                 Subject: ip,
