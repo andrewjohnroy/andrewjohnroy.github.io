@@ -1,0 +1,20 @@
+.goat {
+    height: 10%;
+    width: 10%;
+}
+
+body {
+    background-color: saddlebrown;
+}
+
+h1 {
+    font-family: Arial;
+}
+
+a {
+    font-family: Calibri;
+}
+
+h1, a {
+    color: aliceblue;
+}
